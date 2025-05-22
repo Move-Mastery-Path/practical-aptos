@@ -1,6 +1,6 @@
-# Aptos by Example
+# Practical Aptos
 
-Welcome to **Practical Aptos**! This project is a hands-on guide to learning the Aptos Move programming language. Inspired by the 
+Welcome to **Practical Aptos**! This project is a hands-on guide to learning the Aptos Move programming language.s
 
 Our goal is to provide clear, runnable code examples, **along with targeted exercises and solutions**, to take you from foundational concepts to advanced development practices on Aptos.
 
