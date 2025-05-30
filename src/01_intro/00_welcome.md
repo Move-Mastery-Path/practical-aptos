@@ -2,3 +2,5 @@
 
 Welcome to "Practical Aptos"!
 
+
+Painpoints 
